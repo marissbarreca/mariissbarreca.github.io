@@ -1,0 +1,11 @@
+.head-banner{
+    background-color: brown;
+}
+
+@media screen and (min-width: 768px){
+    .head-banner{
+        padding-top:12rem;
+        padding-bottom:12rem;
+    }
+}
+/* style="background-image: url('photo_2023-02-02_18-02-20.jpg')" */
